@@ -77,12 +77,6 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kebano123&cover_image=true&theme=default" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Cassio-hue&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
